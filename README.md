@@ -59,11 +59,6 @@
   />
   <br>
   <br>
-  <img 
-    align="center 
-    alt="Status" 
-    src="https://github-readme-streak-stats.herokuapp.com?user=AaronGGoldberg&theme=synthwave"
-  />
 
 <div align="center" style="display: inline_block"><br>
  

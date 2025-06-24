@@ -17,7 +17,7 @@
 <br>
       
 <div align="center">
-  <img src="https://imgur.com/ikYDOuo.gif](https://kr.pinterest.com/pin/pikachu--813462751445325032/" width="300">
+  <img src="[https://imgur.com/ikYDOuo.gif](https://kr.pinterest.com/pin/pikachu--813462751445325032/](https://i.imgur.com/X7eXft8.mp4)" width="300">
 </div>
 
 <div align="center" width="100%">

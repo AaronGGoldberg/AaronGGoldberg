@@ -48,14 +48,14 @@
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RamonCout0&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RamonCout0&theme=tokyonight](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AaronGGoldberg&theme=bear"
   />
   <br>
   <br>
   <img
     align="center"
     alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RamonCout0&theme=tokyonight"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RamonCout0&theme=tokyonight](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AaronGGoldberg&theme=bear"
   />
   <br>
   <br>

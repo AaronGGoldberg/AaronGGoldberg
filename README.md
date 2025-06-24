@@ -16,9 +16,9 @@
 <br>
 <br>
       
-<div align="center">
+<!--<div align="center">
   <img src="https://imgur.com/ikYDOuo.gif](https://kr.pinterest.com/pin/pikachu--813462751445325032/](https://i.imgur.com/X7eXft8.mp4" width="300">
-</div>
+</div>-->
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=5f15a9&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>

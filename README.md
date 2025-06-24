@@ -61,7 +61,7 @@
   <br>
   <img align="center 
     alt="Status" 
-    src =  "https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AaronGGoldberg&theme=blue-green" alt="GitHub Streak"
+    src =  "GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AaronGGoldberg&theme=shades-of-purple)](https://git.io/streak-stats"
 
 
 <div align="center" style="display: inline_block"><br>

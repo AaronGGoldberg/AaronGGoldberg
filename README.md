@@ -3,10 +3,9 @@
 <div align="center">
   <samp>
     <b>
-      システムアナリスト
     </b>
       <br>
-      Sou o Ramon Couto
+      Sou o Aaron Goldberg
       <br>
   </samp>
 </div>

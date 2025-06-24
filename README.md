@@ -10,7 +10,7 @@
   </samp>
 </div>
 <div align="center">
-  <p align="center"><img align="center" <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FRamonCout0&s=40&c=5f15a9&bg=00000000&no=2&ff=alien&tb=Visitantes%3A+&ta=" alt="visits"> </p> 
+  <p align="center"><img align="center" <img src="https://visit-counter.vercel.app/counter.png?page=AaronGGoldberg&s=40&c=8000ff&bg=00000000&no=2&ff=digi&tb=&ta=" alt="visits"> </p> 
 </div>
       
 <br>

@@ -62,8 +62,8 @@
   <img 
     align="center 
     alt="Status" 
-    src=<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AaronGGoldberg&theme=synthwave" alt="GitHub Streak" /></a>
-
+    src="https://github-readme-streak-stats.herokuapp.com?user=AaronGGoldberg&theme=synthwave"
+  />
 
 <div align="center" style="display: inline_block"><br>
  

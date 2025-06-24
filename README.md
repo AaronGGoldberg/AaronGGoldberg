@@ -59,9 +59,10 @@
   />
   <br>
   <br>
-  <img align="center 
+  <img 
+    align="center 
     alt="Status" 
-    src =  "GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AaronGGoldberg&theme=shades-of-purple)](https://git.io/streak-stats"
+    src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AaronGGoldberg&theme=synthwave"
 
 
 <div align="center" style="display: inline_block"><br>

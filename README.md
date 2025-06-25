@@ -67,8 +67,8 @@
   <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Godot-Dark.svg" />-->
   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg"/>
   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"/>
-  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/html.svg"/>
-  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/css.svg"/>
+  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Html.svg"/>
+  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Css.svg"/>
   <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GameMakerStudio.svg" />-->
   
 </div>

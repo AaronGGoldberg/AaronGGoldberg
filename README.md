@@ -69,6 +69,7 @@
   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"/>
   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"/>
   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"/>
+  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ASM.svg"/>
   <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GameMakerStudio.svg" />-->
   
 </div>
